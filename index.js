@@ -1,2 +1,2 @@
-const a = typeof "89"
+const a = typeof "889"
 console.log(a)
