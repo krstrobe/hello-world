@@ -1,2 +1,2 @@
-const a = typeof "89939"
-console.log(a)
+const a = typeof "89989";
+console.log(a);
